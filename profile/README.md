@@ -15,4 +15,4 @@ Continue reading on our [webpage](https://www.marine.usf.edu/comit/mission/)
 
 ## If you want to contribute
 
-Firstly, whether you are an part of the COMIT team or a member of our public follwing, thank you for considering a contribution.  If you want to make a contribution to one of our existing packages please read the CONTRIBUTING file in the package's root.   If you are affiliated with the COMIT group, please contact us before creating a package and make sure your package complies with our [Public Repository Checklist](https://usf-comit.github.io/development-conventions/repository_publication_guidelines.html)
+Firstly, whether you are part of the COMIT team or a member of our public following, thank you for considering a contribution.  If you want to make a contribution to one of our existing packages, please read the CONTRIBUTING file in the package's root.   If you are affiliated with the COMIT group, please contact us before creating a package and make sure your package complies with our [Public Repository Checklist](https://usf-comit.github.io/development-conventions/repository_publication_guidelines.html)
